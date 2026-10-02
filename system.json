@@ -2,7 +2,7 @@
   "id": "shinobi-no-sho-revamp",
   "title": "Shinobi no Sho - Revamp",
   "description": "Sistema oficial de Shinobi no Sho para o Foundry VTT",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -16,5 +16,5 @@
     "module/shinobi.js"
   ],
   "manifest": "https://raw.githubusercontent.com/NelaTrex/shinobi-no-sho-revamp/refs/heads/main/system.json",
-  "download": "https://github.com/NelaTrex/shinobi-no-sho-revamp/releases/download/1.0.0/shinobi-no-sho-revamp.zip"
+  "download": "https://github.com/NelaTrex/shinobi-no-sho-revamp/releases/download/2.0.0/shinobi-no-sho-revamp.zip"
 }
